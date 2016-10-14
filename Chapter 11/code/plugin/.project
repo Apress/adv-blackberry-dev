@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FriendTracker</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>net.rim.eide.RIMResourcesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.PreprocessBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.JavaIncrementalProjectBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>net.rim.eide.rimnature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>net.rim.eide.PreprocessingNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/FriendTrackerLoader.java.svn-base</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 8/code/plugin/src/com/apress/king/mediagrabber/.svn/text-base/FriendTrackerLoader.java.svn-base</location>
+		</link>
+		<link>
+			<name>src/FriendViewer.java.svn-base</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 8/code/plugin/src/com/apress/king/mediagrabber/.svn/text-base/FriendViewer.java.svn-base</location>
+		</link>
+		<link>
+			<name>src/entries</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 8/code/plugin/src/com/apress/king/mediagrabber/.svn/entries</location>
+		</link>
+		<link>
+			<name>src/format</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 8/code/plugin/src/com/apress/king/mediagrabber/.svn/format</location>
+		</link>
+		<link>
+			<name>src/.svn/entries</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/.svn/entries</location>
+		</link>
+		<link>
+			<name>src/.svn/format</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/.svn/format</location>
+		</link>
+		<link>
+			<name>src/com/.svn/entries</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/com/.svn/entries</location>
+		</link>
+		<link>
+			<name>src/com/.svn/format</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/com/.svn/format</location>
+		</link>
+		<link>
+			<name>src/com/apress/.svn/entries</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/com/apress/.svn/entries</location>
+		</link>
+		<link>
+			<name>src/com/apress/.svn/format</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/com/apress/.svn/format</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/.svn/entries</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/com/apress/king/.svn/entries</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/.svn/format</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/com/apress/king/.svn/format</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/FriendTrackerLoader.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/plugin/src/com/apress/king/mediagrabber/FriendTrackerLoader.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/FriendViewer.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/plugin/src/com/apress/king/mediagrabber/FriendViewer.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/entries</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/com/apress/king/mediagrabber/.svn/entries</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/format</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/com/apress/king/mediagrabber/.svn/format</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/text-base/FriendTrackerLoader.java.svn-base</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/com/apress/king/mediagrabber/.svn/text-base/FriendTrackerLoader.java.svn-base</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/text-base/FriendViewer.java.svn-base</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 10/code/plugin/src/com/apress/king/mediagrabber/.svn/text-base/FriendViewer.java.svn-base</location>
+		</link>
+	</linkedResources>
+</projectDescription>

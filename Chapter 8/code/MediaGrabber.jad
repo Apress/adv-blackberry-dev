@@ -1,0 +1,58 @@
+RIM-COD-SHA1-4: d3 7c 28 2a 0d 15 8a 7f dc 17 38 b0 4e 62 25 d5 53 f8 5f de
+RIM-COD-SHA1-3: 8e 55 e3 bd 16 58 a9 c3 8e ba 02 a0 cd 1e 29 35 b6 05 de 9a
+RIM-COD-URL-12: MediaGrabber-12.cod
+RIM-COD-SHA1-2: 83 45 18 57 c2 fd 1b 1f a2 71 64 44 23 9b 97 fb 7c d5 3e de
+RIM-COD-URL-11: MediaGrabber-11.cod
+RIM-COD-SHA1-1: 31 c7 91 62 61 d8 55 d0 b1 3e 95 cb 10 95 fb e2 e5 01 13 ae
+RIM-COD-URL-10: MediaGrabber-10.cod
+RIM-MIDlet-Flags-2: 0
+RIM-MIDlet-Flags-1: 1
+MIDlet-Jar-Size: 1268418
+MIDlet-Name: MediaGrabber
+MIDlet-Jar-URL: MediaGrabber.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Permissions: javax.microedition.io.Connector.http,javax.microedition.io.Connector.socket,javax.microedition.io.Co nnector.file.write,javax.microedition.io.Connector.file.read,javax.mi croedition.media.control.RecordControl,javax.microedition.media.contr ol.VideoControl.getSnapshot,javax.microedition.content.ContentHandler
+RIM-COD-URL-9: MediaGrabber-9.cod
+RIM-COD-URL-8: MediaGrabber-8.cod
+RIM-COD-URL-7: MediaGrabber-7.cod
+RIM-COD-URL-6: MediaGrabber-6.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_menuitem,net_rim_pdap,net_rim_crypto_1,net_rim_crypto_3,net_rim_bbapi_mailv2
+RIM-COD-URL-5: MediaGrabber-5.cod
+RIM-COD-URL-4: MediaGrabber-4.cod
+RIM-COD-URL-3: MediaGrabber-3.cod
+RIM-COD-URL-2: MediaGrabber-2.cod
+RIM-COD-URL-1: MediaGrabber-1.cod
+RIM-COD-Size-9: 49972
+RIM-COD-Size-8: 49972
+RIM-COD-Size-7: 52540
+MicroEdition-Handler-1-ID: com.apress.king.mediagrabber
+RIM-COD-Size-6: 57940
+RIM-COD-Size-5: 55784
+RIM-COD-Size-4: 50188
+RIM-COD-Size-3: 52768
+RIM-COD-Module-Name: MediaGrabber
+RIM-COD-Size-2: 50096
+RIM-COD-Size-1: 54824
+RIM-COD-SHA1: 91 71 e6 52 4d 65 82 30 4c e2 62 30 8b e8 dd a9 2b 05 6a 64
+RIM-COD-Size: 62436
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-Size-12: 51728
+RIM-COD-Size-11: 49976
+RIM-COD-Size-10: 49976
+MIDlet-Vendor: Apress
+MIDlet-2: ,,launch
+MIDlet-1: MediaGrabber,,
+RIM-COD-URL: MediaGrabber.cod
+RIM-COD-SHA1-12: 1e 0a d9 97 ec 1e 4f 91 31 04 d9 e0 c6 12 27 d1 db ae 8a c5
+RIM-COD-SHA1-11: ff f7 15 b8 c9 30 49 44 8b e3 84 9c 6d 9b 93 c1 cb fb f5 27
+RIM-COD-SHA1-10: 87 b5 20 cb c5 7e 29 10 4c 8e c6 2a 4d fa 90 11 8f 1d 70 87
+MicroEdition-Handler-1-en: Send Encrypted Via MediaGrabber
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0
+MicroEdition-Handler-1: com.apress.king.mediagrabber.MediaGrabber, image/png image/jpeg audio/amr audio/pcm audio/mpeg, .png .jpg .jpeg .amr .pcm .mp3, send, en
+RIM-COD-SHA1-9: 83 16 8c 30 77 b7 88 b1 be 13 a1 6c c4 3d 29 47 70 0a 48 e8
+RIM-COD-SHA1-8: 25 f1 72 b2 08 d9 ad 52 69 76 ae 63 16 12 8a 9b cf 5c f1 d8
+RIM-COD-SHA1-7: d5 26 07 d5 a7 6d 23 ba d6 19 e0 eb b2 51 09 51 41 01 9d 90
+RIM-COD-SHA1-6: 2b 23 11 4a 80 9a 8c 71 62 ad 05 d6 ed 1c c1 8e 8d a7 15 20
+RIM-COD-Creation-Time: 1251660169
+RIM-COD-SHA1-5: fa dd ce 63 1e 2b 4d a5 f2 de fc 1a fd 4a 47 96 04 aa e6 2a

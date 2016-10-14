@@ -1,0 +1,63 @@
+## RIM Java Development Environment
+# RIM Project file
+#
+# This file is generated and managed by BlackBerry developer tools.
+# It SHOULD NOT BE modified manually.
+#
+AddOn=0
+AlwaysBuild=1
+[AlxImports
+]
+AutoRestart=0
+[ClassProtection
+]
+[CustomBuildFiles
+]
+[CustomBuildRules
+]
+[DefFiles
+]
+[DependsOn
+]
+ExcludeFromBuildAll=0
+[Files
+src\.svn\entries
+src\.svn\format
+src\com\.svn\entries
+src\com\.svn\format
+src\com\apress\.svn\entries
+src\com\apress\.svn\format
+src\com\apress\king\.svn\entries
+src\com\apress\king\.svn\format
+src\com\apress\king\mediagrabber\.svn\entries
+src\com\apress\king\mediagrabber\.svn\format
+src\com\apress\king\mediagrabber\.svn\text-base\FriendTrackerLoader.java.svn-base
+src\com\apress\king\mediagrabber\.svn\text-base\FriendViewer.java.svn-base
+src\com\apress\king\mediagrabber\FriendTrackerLoader.java
+src\com\apress\king\mediagrabber\FriendViewer.java
+]
+HaveAlxImports=0
+HaveDefs=0
+HaveImports=0
+[Icons
+]
+[ImplicitRules
+]
+[Imports
+]
+Listing=0
+Options=-quiet
+OutputFileName=FriendTracker
+[PackageProtection
+]
+RibbonPosition=0
+[RolloverIcons
+]
+RunOnStartup=1
+StartupTier=7
+SystemModule=0
+Title=FriendTracker
+Type=2
+UserData=|src
+Vendor=Chris King
+Version=0.0.1

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MediaGrabber</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>net.rim.eide.RIMResourcesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.PreprocessBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.JavaIncrementalProjectBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>net.rim.eide.rimnature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>net.rim.eide.PreprocessingNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/com/apress/king/mediagrabber/ChoicesScreen.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/ChoicesScreen.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/MediaGrabber.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/MediaGrabber.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/MediaGrabber.rrc</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/MediaGrabber.rrc</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/MediaGrabber.rrh</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/MediaGrabber.rrh</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/MediaGrabber_cs.rrc</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/MediaGrabber_cs.rrc</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/MediaGrabber_en.rrc</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/MediaGrabber_en.rrc</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/MediaGrabber_en_GB.rrc</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/MediaGrabber_en_GB.rrc</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/MediaGrabber_en_US.rrc</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/MediaGrabber_en_US.rrc</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/PlayingScreen.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/PlayingScreen.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/RecordingScreen.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/RecordingScreen.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/SendingScreen.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/SendingScreen.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/StatusUpdater.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 11/code/src/com/apress/king/mediagrabber/StatusUpdater.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

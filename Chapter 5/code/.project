@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MediaGrabber</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>net.rim.eide.RIMResourcesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.PreprocessBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.JavaIncrementalProjectBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>net.rim.eide.rimnature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>net.rim.eide.PreprocessingNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/.svn/entries</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/.svn/entries</location>
+		</link>
+		<link>
+			<name>src/.svn/format</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/.svn/format</location>
+		</link>
+		<link>
+			<name>src/com/.svn/entries</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/.svn/entries</location>
+		</link>
+		<link>
+			<name>src/com/.svn/format</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/.svn/format</location>
+		</link>
+		<link>
+			<name>src/com/apress/.svn/entries</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/.svn/entries</location>
+		</link>
+		<link>
+			<name>src/com/apress/.svn/format</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/.svn/format</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/.svn/entries</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/.svn/entries</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/.svn/format</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/.svn/format</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/ChoicesScreen.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/ChoicesScreen.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/MediaGrabber.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/MediaGrabber.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/PlayingScreen.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/PlayingScreen.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/RecordingScreen.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/RecordingScreen.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/SendingScreen.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/SendingScreen.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/StatusUpdater.java</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/StatusUpdater.java</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/entries</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/.svn/entries</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/format</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/.svn/format</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/text-base/ChoicesScreen.java.svn-base</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/.svn/text-base/ChoicesScreen.java.svn-base</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/text-base/MediaGrabber.java.svn-base</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/.svn/text-base/MediaGrabber.java.svn-base</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/text-base/PlayingScreen.java.svn-base</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/.svn/text-base/PlayingScreen.java.svn-base</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/text-base/RecordingScreen.java.svn-base</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/.svn/text-base/RecordingScreen.java.svn-base</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/text-base/SendingScreen.java.svn-base</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/.svn/text-base/SendingScreen.java.svn-base</location>
+		</link>
+		<link>
+			<name>src/com/apress/king/mediagrabber/.svn/text-base/StatusUpdater.java.svn-base</name>
+			<type>1</type>
+			<location>C:/Users/Chris/Documents/career/Apress/Advanced BlackBerry/Chapter 5/code/src/com/apress/king/mediagrabber/.svn/text-base/StatusUpdater.java.svn-base</location>
+		</link>
+	</linkedResources>
+</projectDescription>
